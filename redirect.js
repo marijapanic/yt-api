@@ -6,7 +6,7 @@ $(document).ready(function () {
     const redirect_uri = "http://localhost/elab/upload.html";
     const client_secret = "eSIfuf7wvfaP8oavOE7iPMgG";
     const scope = "https://www.googleapis.com/auth/youtube";
-    var client_id = "915913404758-er2990h3p7qu1mqt1lvtvfmsq8363mbf.apps.googleusercontent.com";
+    var client_id = "CLIENT_ID";
     var playlist;
     var channelId;
     var username;
