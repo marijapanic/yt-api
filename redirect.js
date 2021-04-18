@@ -12,7 +12,7 @@ $(document).ready(function () {
     var username;
     var search;
     var playlistId;
-    var API_KEY = "AIzaSyDGghhjkG4c0demr7sy2d4ZoQpi1XAnPvE";
+    var API_KEY = "API_KEY";
     $("#myplaylist").hide();
 
     $("#myplaylist").click(function () {
