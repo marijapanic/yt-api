@@ -4,7 +4,7 @@ $(document).ready(function () {
     const urlParams = new URLSearchParams(window.location.search);
     const code = urlParams.get('code');
     const redirect_uri = "http://localhost/elab/upload.html";
-    const client_secret = "eSIfuf7wvfaP8oavOE7iPMgG";
+    const client_secret = "CLIENT_SECRET";
     const scope = "https://www.googleapis.com/auth/youtube";
     var client_id = "CLIENT_ID";
     var playlist;
